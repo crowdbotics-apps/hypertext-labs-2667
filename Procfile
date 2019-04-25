@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT hypertext_labs_2667.wsgi:application
